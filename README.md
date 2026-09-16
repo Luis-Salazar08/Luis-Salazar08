@@ -1,7 +1,3 @@
-<!-- BANNER -->
-
-
-
 <p align="center">
   <img
     src="https://web.undc.edu.pe/wp-content/uploads/2019/12/logo.jpg"
@@ -11,9 +7,6 @@
 </p>
 
 <br>
-
-<!-- PRESENTACIÓN -->
-
 <h2 align="center">👋¡Hola! Soy </h2>
 
 <h1 align="center">
@@ -25,10 +18,7 @@
 </p>
 
 <br>
-
-<!-- TECNOLOGÍAS -->
-
-<h2 align="center">💻 Tecnologías en Progreso</h2>
+<h2 align="center">💻 Tecnologías</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
