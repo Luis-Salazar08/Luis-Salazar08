@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="https://web.undc.edu.pe/wp-content/uploads/2019/12/logo.jpg"
@@ -6,9 +7,11 @@
   />
 </p>
 <br>
-<h2 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Luis Armando Salazar Javier ✨</h2>
-<p align="center">
-  Ingeniería de Sistemas · UNDC
+<h2 align="center">¡Hola! 👋 Soy Luis Armando Salazar Javier ✨</h2>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-18-blue" />
+  <img src="https://img.shields.io/badge/Lives-Perú-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish-brightgreen" />
 </p>
 
 <p align="left">
@@ -30,18 +33,18 @@
 <br>
 <h2 align="left">GitHub ☕</h2>
 <p align="center">
-  <!--- stats (start) -->
+ 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-Salazar08&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luis-Salazar08&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
