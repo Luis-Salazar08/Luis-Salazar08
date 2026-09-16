@@ -18,7 +18,7 @@
 </p>
 
 <br>
-<h2 align="center">💻 Tecnologías</h2>
+<h2 align="center">💻 Tecnologías en Progreso</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
