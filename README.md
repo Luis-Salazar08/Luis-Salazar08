@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @Luis-Salazar08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- BANNER -->
 
-<!---
-Luis-Salazar08/Luis-Salazar08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p align="center">
+  <img
+    src="https://web.undc.edu.pe/wp-content/uploads/2019/12/logo.jpg"
+    alt="Universidad Nacional de Cañete"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<!-- PRESENTACIÓN -->
+
+<h2 align="center">👋¡Hola! Soy </h2>
+
+<h1 align="center">
+  Luis Armando Salazar Javier
+</h1>
+
+<p align="center">
+  Ingeniería de Sistemas · UNDC
+</p>
+
+<br>
+
+<!-- TECNOLOGÍAS -->
+
+<h2 align="center">💻 Tecnologías en Progreso</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
+</p>
